@@ -1,0 +1,5 @@
+# ignore the actual config file so that we don't accidently share our credentials
+config.ini
+
+# ingore any log files that might be generated
+*.log
