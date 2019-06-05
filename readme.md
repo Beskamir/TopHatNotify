@@ -13,7 +13,7 @@ Now you can safely skip class and still be notified when the prof posts a Top Ha
 ## Setup and Install
 
 ### Clone the repository
-  git clone https://github.com/Beskamir/TopHatNotify
+    git clone https://github.com/Beskamir/TopHatNotify
 
 ### Setup your config.ini file
  - Rename sampleConfig.ini to config.ini 
