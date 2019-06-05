@@ -35,3 +35,10 @@ Now you can safely skip class and still be notified when the prof posts a Top Ha
  - Developed and tested on Windows 10
  - Should be crossplatform except for win10toast
  - Uses Python 3 but it might be compatible with Python 2
+
+## Known issues
+ - Might have some false positives
+
+## Nice to have features that I probably won't implement unless I get bored
+ - Different notification sound for first message vs reminders
+ - Time stamp the notifications when printing them to the console
