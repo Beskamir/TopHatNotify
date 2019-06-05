@@ -12,6 +12,9 @@ Now you can safely skip class and still be notified when the prof posts a Top Ha
 ---
 ## Setup and Install
 
+### Clone the repository
+  git clone https://github.com/Beskamir/TopHatNotify
+
 ### Setup your config.ini file
  - Rename sampleConfig.ini to config.ini 
  - Fill it with
@@ -42,3 +45,4 @@ Now you can safely skip class and still be notified when the prof posts a Top Ha
 ## Nice to have features that I probably won't implement unless I get bored
  - Different notification sound for first message vs reminders
  - Time stamp the notifications when printing them to the console
+ - Ability to dismiss or turn off the notification reminders 
